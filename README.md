@@ -1,3 +1,3 @@
 # CALiSol-23
 
-Dataset and code for CALiSol-23
+Dataset and codebase for CALiSol-23
