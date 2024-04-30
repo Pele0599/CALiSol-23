@@ -1,0 +1,51 @@
+﻿LiPF6 ; Lithium hexafluorophosphate; [Li+].F[P-](F)(F)(F)(F)F
+LiBF4 ; Lithium tetrafluoroborate; [Li+].F[B-](F)(F)F
+LiFSI ; Lithium Bis(fluorosulfonyl)imide; [Li+].[N-](S(=O)(=O)F)S(=O)(=O)F
+LiTDI ; Lithium 2-trifluoromethyl-4,5-dicyanoimidazole ;[Li+].C(#N)C1=C(N=C([N-]1)C(F)(F)F)C#N
+LiPDI ; Lithium 4,5-dicyano-2-(pentafluoroethyl)imidazolide ;C(#N)C1=C(N=C(N1)C(C(F)(F)F)(F)F)C#N
+LiTFSI ; Lithium bis(trifluoromethanesulfonyl)imide ;[Li]N(S(=O)(=O)C(F)(F)F)S(=O)(=O)C(F)(F)F
+LiClO4 ; Lithium perchlorate; [Li+].[O-]Cl(=O)(=O)=O
+LiAsF6 ; Lithium hexafluoroarsenate(V); [Li+].F[As-](F)(F)(F)(F)F
+LiBOB ; Lithium bis(oxalato)borate; [Li+].O=C1O[B-]2(OC1=O)OC(=O)C(=O)O2
+LiCF3SO3 ; Lithium triflate ;[Li+].[O-]S(=O)(=O)C(F)(F)F
+LiBPFPB ; Lithium bis(perfluoropinacolato)borate ;[Li+].FC(F)(F)C(O[B-]1(OC2(C(F)(F)F)C(F)(F)F)OC2(C(F)(F)F)C(F)(F)F)(C(O1)(C(F)(F)F)C(F)(F)F)C(F)(F)F
+LiBMB ; Lithium bis(malonato)borate; [Li+].O=C(CC(=O)O1)O[B-]1(OC(C1)=O)OC1=O
+LiN(CF3SO2)2 ; Lithium bis(trifluoromethanesulfonimide) ;[Li+].C(F)(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+Ethylene carbonate ; C1COC(=O)O1;
+Propylene carbonate ; CC1COC(=O)O1;
+Dimethyl carbonate ; COC(=O)OC;
+Ethyl Methyl Carbonate ; CCOC(=O)OC;
+Diethyl carbonate ; DEC ; CCOC(=O)OCC
+Dimethoxyethane ; DME ; COCCOC
+Dimethyl sulfoxide ; DMSO ; CS(=O)C
+Acetonitrile ; AN ; CC#N
+2-Methoxyethyl (methyl) carbonate ; MOEMC ; COCCOC(=O)OC
+Tris(2,2,2-trifluoroethyl) phosphate ; TFP ; C(C(F)(F)F)OP(=O)(OCC(F)(F)F)OCC(F)(F)F
+Ethyl acetate ; EA ; CCOC(=O)C
+Methyl acetate ; MA ; CC(=O)OC
+Fluoroethylene carbonate ; FEC ; C1C(OC(=O)O1)F
+Dioxolane ; DOL ; C1COCO1
+2-Methyltetrahydrofuran ; 2-MeTHF ; CC1CCCO1
+Dipropylene glycol dimethyl ether ; DMM ; COCC(C)OC(C)COC
+Trichlorofluoromethane ; Freon 11 ; C(F)(Cl)(Cl)Cl
+Methylene chloride ; Methylene chloride ; C(Cl)Cl 
+Tetrahydrofuran ; THF ; C1CCOC1 
+Toluene ; Toluene ; CC1=CC=CC=C1 
+Sulfolane ; Sulfolane ; O=S1(=O)CCCC1
+Diglyme ; 2-Glyme ; COCCOCCOC
+Triglyme ; 3-Glyme ; COCCOCCOCCOC 
+Tetraglyme ; 4-Glyme ; COCCOCCOCCOCCOC
+3-Me-2-Oxazolidinone ; 3-Me-2-Oxazolidinone ; CN1CCOC1=O
+3-Methylsulfolane ; 3-MeSulfolane ; CC1CCS(=O)(=O)C1
+2-(2-Ethoxyethoxy)ethanol ; Ethyldiglyme ; CCOCCOCCO
+Dimethylformamide ; DMF ; CN(C)C=O
+Ethylbenzene ; Ethylbenzene ; CCC1=CC=CC=C1
+Ethylene glycol monomethyl ; Ethylmonoglyme ; COCCO
+Benzene ; Benzene ; C1=CC=CC=C1
+gamma-Butyrolactone ; g-Butyrolactone ; C1CC(=O)OC1
+Cumene ; Cumene ; CC(C)C1=CC=CC=C1 
+Propyl Sulfone ; Propylsulfone ; CCCS(=O)(=O)CCC 
+1,2,4-Trimethylbenzene ; Pseudocumeme ; CC1=CC(=C(C=C1)C)C
+Tetraethyl orthosilicate ; TEOS ; CCO[Si](OCC)(OCC)OCC
+m-Xylene ; m-Xylene ; CC1=CC(=CC=C1)C
+o-Xylene ; o-Xylene ; CC1=CC=CC=C1C
